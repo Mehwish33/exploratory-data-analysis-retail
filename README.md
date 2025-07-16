@@ -25,11 +25,11 @@ https://github.com/Mehwish33/exploratory-data-analysis-retail
 * **Seaborn:** For enhanced statistical graphics and aesthetic plot enhancements.
 
 ## Learning Outcomes:
-*End-to-End Data Analysis:
+**End-to-End Data Analysis:
 Gained practical experience in the full cycle of data loading, cleaning, and exploratory data analysis.
-*Insight Generation:
+**Insight Generation:
 Developed strong analytical skills to identify trends, patterns, and derive meaningful insights from complex datasets.
-*Data Visualization & Communication:
+**Data Visualization & Communication:
 Enhanced proficiency in creating clear and impactful visualizations to effectively communicate analytical findings.
-*Business Impact: 
+**Business Impact: 
 Improved ability to translate data-driven insights into actionable recommendations for business strategy and optimization.
