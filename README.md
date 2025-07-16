@@ -31,4 +31,4 @@ https://github.com/Mehwish33/exploratory-data-analysis-retail
 
 * **Data Visualization & Communication:** Enhanced proficiency in creating clear and impactful visualizations to effectively communicate analytical findings.
  
-***Business Impact:** Improved ability to translate data-driven insights into actionable recommendations for business strategy and optimization.
+* **Business Impact:** Improved ability to translate data-driven insights into actionable recommendations for business strategy and optimization.
